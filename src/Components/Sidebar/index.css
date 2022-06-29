@@ -1,0 +1,30 @@
+.SideBar {
+    background-color: aliceblue;
+    line-height: 30px;
+    font-size: 25px;
+    border-right: 1px solid gray;
+    width: 300px;
+}
+
+ul {
+    padding: 0px;
+}
+
+.list-items {
+    padding: 30px;
+    list-style-type: none;
+}
+
+.list-items:hover {
+    background-color: green;
+    color: white;
+}
+
+
+.link {
+    color: black;
+}
+
+.link:hover {
+    color: white;
+}

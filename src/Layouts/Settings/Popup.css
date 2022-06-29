@@ -1,0 +1,58 @@
+
+.LoremIpsum{
+    width: 300px;
+    height: 498px;
+    background-color: chocolate;
+    color: white;
+    padding: 10px;
+    font-size: smaller;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    padding-bottom: 20px;
+  }
+  .input{
+    padding-left: 50px;
+    line-height: 30px;
+    padding-top: 50px;
+  }
+  input[type=email] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border-radius: 10px;
+  }
+  /* h1{
+    padding-bottom: 30px;
+  } */
+  h5{
+    padding-top: 20px;
+  }
+  .select{
+    width: 70%;
+    padding: 5px 5px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border-radius: 10px;
+  }
+  .add{
+    background-color: green;
+    width: 120px;
+    color: white;
+    border: 1px white;
+  }
+  .cancel{
+    background-color: orange;
+    width: 120px;
+    color: white;
+    border: 1px white;
+   
+  }
+  .role{
+    padding-top: 60px;
+    padding-left: 200px;
+  }
